@@ -15,7 +15,9 @@
 ***
 This work delves into an essential, yet must-know baseline in light of the latest advancements in Generative Artificial Intelligence (GenAI): the utilization of GPT-4 for visual understanding. We center on the evaluation of GPT-4's linguistic and visual capabilities in zero-shot visual recognition tasks. To ensure a comprehensive evaluation, we have conducted experiments across three modalities—images, videos, and point clouds—spanning a total of 16 popular academic benchmark. 
 
-
+<div align="center">
+<img src="docs/method.png" width="700" />
+</div>
 
 <details><summary>📣 I also have other cross-modal projects that may interest you ✨. </summary><p>
 
@@ -53,10 +55,9 @@ This work delves into an essential, yet must-know baseline in light of the lates
 <div align="center">
 Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabilities.
 
-<img src="docs/method.png" width="700" />
 <img src="docs/results.jpg" width="700">
-
 </div>
+
 
 ## Generated Descriptions from GPT-4
 
