@@ -1,0 +1,4 @@
+dataset: 'raf_cb'
+sentence_num: 20
+prompt: 'I want you to act as a sentence generator. I will give you a word and your task is to give me {} sentences to describe the word. Your description must accurately revolve around this word and be as objective, detailed and diverse as possible. In addition, you should describe this word based on the human face without using he or she. Output the sentences in a json format which key is the the word and the value is a list composed of these sentences. Do not provide any explanations. The first word is "{}".'
+categories: ['Surprise', 'Fear', 'Disgust', 'Happiness', 'Sadness', 'Anger', 'Neutral']
