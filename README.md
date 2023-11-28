@@ -4,7 +4,7 @@
 
 [![Paper](http://img.shields.io/badge/Paper-arxiv.2311.15732-b31b1b.svg)](https://arxiv.org/abs/2311.15732)
 
-[Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Huanjin Yao]()<sup>2,3</sup>, [Mengxi Zhang]()<sup>2,4</sup>, [Yuxin Song]()<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>5</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>
+[Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Huanjin Yao](https://openreview.net/profile?id=~Huanjin_Yao1)<sup>2,3</sup>, [Mengxi Zhang]()<sup>2,4</sup>, [Yuxin Song](https://openreview.net/profile?id=~YuXin_Song1)<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>5</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>
 
  
 <sup>1</sup>[The University of Sydney](https://www.sydney.edu.au/), <sup>2</sup>[Baidu](https://vis.baidu.com/#/), <sup>3</sup>[Tsinghua University](https://www.tsinghua.edu.cn/en/), <sup>4</sup>[Tianjin University](https://www.tju.edu.cn/english/index.htm/), <sup>5</sup>[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/#)
@@ -16,7 +16,7 @@
 This work delves into an essential, yet must-know baseline in light of the latest advancements in Generative Artificial Intelligence (GenAI): the utilization of GPT-4 for visual understanding. We center on the evaluation of GPT-4's linguistic and visual capabilities in zero-shot visual recognition tasks. To ensure a comprehensive evaluation, we have conducted experiments across three modalities—images, videos, and point clouds—spanning a total of 16 popular academic benchmark. 
 
 <div align="center">
-<img src="docs/method.png" width="700" />
+<img src="docs/method.png" width="800" />
 </div>
 
 <details><summary>📣 I also have other cross-modal projects that may interest you ✨. </summary><p>
