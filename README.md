@@ -65,13 +65,13 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 <img src="docs/generated_sentences.png" width="450" />
 </div>
 
-- We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [GPT_generated_prompts](https://github.com/whwu95/GPT4Vis/GPT_generated_prompts) folder. Enjoy exploring!
+- We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](https://github.com/whwu95/GPT4Vis/GPT_generated_prompts) folder. Enjoy exploring!
 
-- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](https://github.com/whwu95/GPT4Vis/generate_prompt.py) file. Happy coding! Execute the following command to generate descriptions with GPT-4.
+- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](https://github.com/whwu95/GPT4Vis/generate_prompt.py) file. Happy coding! Please refer to the [**config**](https://github.com/whwu95/GPT4Vis/config) folder for detailed information on all datasets used in our project. 
+- Execute the following command to generate descriptions with GPT-4.
   ```sh
   # To run the script for specific dataset, simply update the following line with the name of the dataset you're working with: 
-  # dataset_name = ["Dataset Name Here"] 
-  # Please refer to the “config” folder for detailed information on all datasets used in our project.
+  # dataset_name = ["Dataset Name Here"]   # e.g., dtd
   python generate_prompt.py
   ```
 
