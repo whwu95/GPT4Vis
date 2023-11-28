@@ -55,7 +55,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 <div align="center">
 Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabilities.
 
-<img src="docs/results.png" width="800">
+<img src="docs/results.jpg" width="800">
 </div>
 
 
