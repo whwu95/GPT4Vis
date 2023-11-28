@@ -53,8 +53,11 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 <div align="center">
-Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabilities.
+An overview of 16 evaluated popular benchmark datasets, comprising images, videos, and point clouds.
 
+<img src="docs/datasets.png" width="800">
+
+Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabilities.
 <img src="docs/results.jpg" width="800">
 </div>
 
