@@ -39,10 +39,15 @@ if not os.path.exists(output_dir):
 
 # hash encoding image names
 all_names = []
+hash_dict = {}
 for idx in range(len(image_files)):
     ori_name = os.path.basename(image_files[idx])
-    new_name = hashlib.sha256(ori_name.encode('utf-8')).hexdigest()[:10]
-    all_names.append(new_name)
+    hash_name = hashlib.sha256(ori_name.encode('utf-8')).hexdigest()[:10]
+    all_names.append(hash_name)
+    hash_dict[hash_name] = ori_name
+hash_dict_path = os.path.join(output_dir, 'hash_dict.json')
+with open(hash_dict_path, "w") as file:
+    json.dump(hash_dict, file, indent=4)
 
 
 log_error = []

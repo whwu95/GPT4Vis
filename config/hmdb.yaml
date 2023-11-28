@@ -1,0 +1,5 @@
+dataset: 'hmdb'
+sentence_num: 20
+prompt: 'I want you to act as a human action expert. I will give you a word and your task is to give me {} sentences to describe the word. Your description must accurately revolve around this word and be as objective, detailed and diverse as possible. In addition, the subject of your description is a human action video. Output the sentences in a json format which key is the the word and the value is a list composed of these sentences. Do not provide any explanations. The first word is "{}".'
+categories: ["brush hair", "cartwheel", "catch", "chew", "clap", "climb", "climb stairs", "dive", "draw sword", "dribble", "drink", "eat", "fall floor", "fencing", "flic flac", "golf", "handstand", "hit", "hug", "jump", "kick", "kick ball", "kiss", "laugh", "pick", "pour", "pullup", "punch", "push", "pushup", "ride bike", "ride horse", "run", "shake hands", "shoot ball", "shoot bow", "shoot gun", "sit", "situp", "smile", "smoke", "somersault", "stand", "swing baseball", "sword", "sword exercise", "talk", "throw", "turn", "walk", "wave"]
+data_path: 'dataset/hmdb'

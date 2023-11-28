@@ -2,3 +2,4 @@ dataset: 'eurosat'
 sentence_num: 20
 prompt: 'I want you to act as a satellite expert. I will give you a word and your task is to give me {} sentences to describe the word. Your description must accurately revolve around this word and be as objective, detailed and diverse as possible. In addition, you should describe this word based on the satellite images. Output the sentences in a json format which key is the the word and the value is a list composed of these sentences. Do not provide any explanations. The first word is "{}".'
 categories: ['Annual Crop Land', 'Forest', 'Herbaceous Vegetation Land', 'Highway or Road', 'Industrial Buildings', 'Pasture Land', 'Permanent Crop Land', 'Residential Buildings', 'River', 'Sea or Lake']
+data_path: 'dataset/eurosat'
