@@ -68,9 +68,9 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 <img src="docs/generated_sentences.png" width="500" />
 </div>
 
-- We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](https://github.com/whwu95/GPT4Vis/GPT_generated_prompts) folder. Enjoy exploring!
+- We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4_generated_prompts) folder. Enjoy exploring!
 
-- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](https://github.com/whwu95/GPT4Vis/generate_prompt.py) file. Happy coding! Please refer to the [**config**](https://github.com/whwu95/GPT4Vis/config) folder for detailed information on all datasets used in our project. 
+- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](https://github.com/whwu95/GPT4Vis/blob/main/generate_prompt.py) file. Happy coding! Please refer to the [**config**](https://github.com/whwu95/GPT4Vis/tree/main/config) folder for detailed information on all datasets used in our project. 
 - Execute the following command to generate descriptions with GPT-4.
   ```sh
   # To run the script for specific dataset, simply update the following line with the name of the dataset you're working with: 
@@ -83,7 +83,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 <img src="docs/gpt4v_prompt.jpg" width="500" />
 </div>
 
-- We share an example script that demonstrates how to use the GPT-4V API for predictions on the DTD dataset. Please refer to the [GPT4V_ZS_DTD.py](https://github.com/whwu95/GPT4Vis/GPT4V_ZS_DTD.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
+- We share an example script that demonstrates how to use the GPT-4V API for predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](https://github.com/whwu95/GPT4Vis/blob/main/GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
 
 
 ## Requirement
