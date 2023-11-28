@@ -55,14 +55,14 @@ This work delves into an essential, yet must-know baseline in light of the lates
 <div align="center">
 Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabilities.
 
-<img src="docs/results.jpg" width="700">
+<img src="docs/results.jpg" width="800">
 </div>
 
 
 ## Generated Descriptions from GPT-4
 
 <div align="center">
-<img src="docs/generated_sentences.png" width="450" />
+<img src="docs/generated_sentences.png" width="500" />
 </div>
 
 - We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](https://github.com/whwu95/GPT4Vis/GPT_generated_prompts) folder. Enjoy exploring!
@@ -77,7 +77,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 ## GPT-4V(ision) for Visual Recognition
 <div align="center">
-<img src="docs/gpt4v_prompt.jpg" width="450" />
+<img src="docs/gpt4v_prompt.jpg" width="500" />
 </div>
 
 - We share an example script that demonstrates how to use the GPT-4V API for predictions on the DTD dataset. Please refer to the [GPT4V_ZS_DTD.py](https://github.com/whwu95/GPT4Vis/GPT4V_ZS_DTD.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
