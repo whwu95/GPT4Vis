@@ -2,7 +2,7 @@
 
 <h2> GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition? </h2>
 
-<!-- [![Paper](http://img.shields.io/badge/Paper-arxiv.2301.00184-b31b1b.svg)](https://arxiv.org/abs/2301.00184) -->
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2311.15732-b31b1b.svg)](https://arxiv.org/abs/2311.15732)
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Huanjin Yao]()<sup>2,3</sup>, [Mengxi Zhang]()<sup>2,4</sup>, [Yuxin Song]()<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>5</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>
 
@@ -41,7 +41,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 ## News
-- [x] **[Nov 28, 2023]** We release our report in Arxiv.
+- [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
 - [x] **[Nov 27, 2023]** Our prompts have been released. Thanks for your star 😝.
 
 
@@ -98,7 +98,7 @@ If you use our code in your research or wish to refer to the results, please sta
 @article{GPT4Vis,
   title={GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?},
   author={Wu, Wenhao and Yao, Huanjin and Zhang, Mengxi and Song, Yuxin and Ouyang, Wanli and Wang, Jingdong},
-  booktitle={arXiv preprint arXiv:2311.xxxxx},
+  booktitle={arXiv preprint arXiv:2311.15732},
   year={2023}
 }
 ```
