@@ -25,5 +25,9 @@ def find_path(dataset_name):
         return 'config/k400.yaml'
     elif dataset_name == 'ssv1':
         return 'config/ssv1.yaml'
+    elif dataset_name == 'ucf':
+        return 'config/ucf.yaml' 
+    elif dataset_name == 'hmdb':
+        return 'config/hmdb.yaml'   
     else:
         raise NotImplementedError
