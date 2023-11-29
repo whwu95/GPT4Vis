@@ -83,8 +83,16 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 <img src="docs/gpt4v_prompt.jpg" width="500" />
 </div>
 
-- We share an example script that demonstrates how to use the GPT-4V API for predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](https://github.com/whwu95/GPT4Vis/blob/main/GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
+- We share an example script that demonstrates how to use the GPT-4V API for zero-shot predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](https://github.com/whwu95/GPT4Vis/blob/main/GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
 
+  ```sh
+  # GPT4V zero-shot recognition script. 
+  # dataset_name = ["Dataset Name Here"]   # e.g., dtd
+  python GPT4V_ZS.py
+
+  # We also provide a script for batch testing with each request (larger batch sizes may lead to instability).
+  python GPT4V_ZS_batch.py
+  ```
 
 ## Requirement
 For guidance on setting up and running the GPT-4 API, we recommend checking out the official OpenAI Quickstart documentation available at: [OpenAI Quickstart Guide](https://platform.openai.com/docs/quickstart).
