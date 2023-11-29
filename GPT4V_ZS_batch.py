@@ -52,7 +52,7 @@ with open(hash_dict_path, "w") as file:
 
 log_error = []
 log_path = 'log_error.txt'
-processed_image_num = 1  # batch size
+processed_image_num = 10  # batch size
 processed_step = total_num // processed_image_num if total_num % processed_image_num == 0 else total_num // processed_image_num + 1
 i = 0
 
@@ -62,11 +62,11 @@ while True:
     try:
         st = i * processed_image_num
         end = (i+1) * processed_image_num
-        print(f'processing {end} images')
+        print(f'processing {st}-{end} images')
         subset = image_files[st:end]  # choose images
         image_names = all_names[st:end]
 
-        text_prompt = "I want you to act as a Texture Image Classifier with a ranking system. I will provide you with an image and a list of optinal categoris. Your task is to choose the 5 most relevant categories for the image and rank them from most to least likely to accurately describe the image. Provide the output in a dict format, key is the image name, value is the list of top-5 category (no line wrap). Do not provide explanations for your choices or any additional information. Here is the image({}) and its optional categories({}). You have to choose strictly among the given categories and do not give any predictions that are not in the given category.".format(image_names, categories)
+        text_prompt = "I want you to act as a Texture Image Classifier with a ranking system. I will provide you with a set of images and a list of optinal categoris. Your task is to choose the 5 most relevant categories for each image and rank them from most to least likely to accurately describe the image. Provide the output in a list format, starting with the most likely category. Do not provide explanations for your choices or any additional information—just the ranked list of categories in a json format. Here are few images({}) and their optional categories({}). You have to choose strictly among the given categories and do not give any predictions that are not in the given category.".format(image_names, categories)
 
 
         base64Images = [encode_image(p) for p in subset]
@@ -91,13 +91,12 @@ while True:
         result = client.chat.completions.create(**params)
 
         markdown_str = result.choices[0].message.content
-        # json_str = markdown_str.replace('```json\n', '').replace('\n```', '')
-        json_str = markdown_str.replace('{', '').replace('}', ',\n')
+        json_str = markdown_str.replace('```json\n', '').replace('\n```', '')
 
-        text_filename = '{}_pred.json'.format(dataset_name)
+        text_filename = '{}_{}_{}.json'.format(dataset_name, st, end)
         output_path = os.path.join(output_dir, text_filename)
         # Write the string to a text file
-        with open(output_path, 'a+') as file:
+        with open(output_path, 'w') as file:
             file.write(json_str)
 
         print(result.usage)
@@ -105,7 +104,7 @@ while True:
         #     file.write(str(result.usage)+'\n')
 
         i = i + 1
-        time.sleep(2)
+        time.sleep(10)
 
     except Exception as e:
         current_date_and_time = datetime.now()
