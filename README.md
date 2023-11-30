@@ -2,7 +2,8 @@
 
 <h2> GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition? </h2>
 
-[![Paper](http://img.shields.io/badge/Paper-arxiv.2311.15732-b31b1b.svg)](https://arxiv.org/abs/2311.15732), [Zhihu](https://zhuanlan.zhihu.com/p/669758735)
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2311.15732-b31b1b.svg)](https://arxiv.org/abs/2311.15732)
+[![Conference](http://img.shields.io/badge/Zhihu-6790AC.svg)](https://zhuanlan.zhihu.com/p/669758735)
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Huanjin Yao](https://openreview.net/profile?id=~Huanjin_Yao1)<sup>2,3</sup>, [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en)<sup>2,4</sup>, [Yuxin Song](https://openreview.net/profile?id=~YuXin_Song1)<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>5</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>
 
