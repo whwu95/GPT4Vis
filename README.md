@@ -1,6 +1,10 @@
 <div align="center">
 
-<h2> GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition? </h2>
+
+
+<h2 align="center"> <a href="https://arxiv.org/abs/2311.15732">GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?</a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
+
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.15732) 
 [![zhihu](https://img.shields.io/badge/-知乎-000000?logo=zhihu&logoColor=0084FF)](https://zhuanlan.zhihu.com/p/669758735)
