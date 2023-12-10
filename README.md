@@ -40,7 +40,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 > [**Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?**](https://arxiv.org/abs/2301.00184)<br>
 > Wenhao Wu, Haipeng Luo, Bo Fang, Jingdong Wang, Wanli Ouyang <br>
-> Accepted by CVPR 2023 as 🌟Highlight🌟 | [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html)[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Cap4Video)<br>
+> Accepted by CVPR 2023 as 🌟Highlight🌟 | [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Cap4Video)<br>
 
 
 </p></details>
