@@ -29,16 +29,17 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 > [**Transferring Vision-Language Models for Visual Recognition: A Classifier Perspective**](https://link.springer.com/article/10.1007/s11263-023-01876-w)<br>
-> Accepted by AAAI 2023 & IJCV 2023 | [[Text4Vis Code]](https://github.com/whwu95/Text4Vis)<br>
+> Accepted by AAAI 2023 & IJCV 2023 | [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis)
+<br>
 > Wenhao Wu, Zhun Sun, Yuxin Song, Jingdong Wang, Wanli Ouyang
 
 
 > [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
-> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)<br>
+> Accepted by CVPR 2023 | [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/BIKE)<br>
 > Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang
 
 > [**Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?**](https://arxiv.org/abs/2301.00184)<br>
-> Accepted by CVPR 2023 as 🌟Highlight🌟 | [[Cap4Video Code]](https://github.com/whwu95/Cap4Video)<br>
+> Accepted by CVPR 2023 as 🌟Highlight🌟 | [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Cap4Video)<br>
 > Wenhao Wu, Haipeng Luo, Bo Fang, Jingdong Wang, Wanli Ouyang
 
 </p></details>
