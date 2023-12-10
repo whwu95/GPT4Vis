@@ -29,8 +29,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 > [**Transferring Vision-Language Models for Visual Recognition: A Classifier Perspective**](https://link.springer.com/article/10.1007/s11263-023-01876-w)<br>
-> Accepted by AAAI 2023 & IJCV 2023 | [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis)
-<br>
+> Accepted by AAAI 2023 & IJCV 2023 | [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis)<br>
 > Wenhao Wu, Zhun Sun, Yuxin Song, Jingdong Wang, Wanli Ouyang
 
 
