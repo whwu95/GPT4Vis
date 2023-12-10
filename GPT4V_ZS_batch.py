@@ -66,7 +66,7 @@ while True:
         subset = image_files[st:end]  # choose images
         image_names = all_names[st:end]
 
-        text_prompt = "I want you to act as a Texture Image Classifier with a ranking system. I will provide you with a set of images and a list of optinal categoris. Your task is to choose the 5 most relevant categories for each image and rank them from most to least likely to accurately describe the image. Provide the output in a list format, starting with the most likely category. Do not provide explanations for your choices or any additional information—just the ranked list of categories in a json format. Here are few images({}) and their optional categories({}). You have to choose strictly among the given categories and do not give any predictions that are not in the given category.".format(image_names, categories)
+        text_prompt = "I want you to act as a Texture Image Classifier with a ranking system. I will provide you with a set of images and a list of optinal categories. Your task is to choose the 5 most relevant categories for each image and rank them from most to least likely to accurately describe the image. Provide the output in a list format, starting with the most likely category. Do not provide explanations for your choices or any additional information—just the ranked list of categories in a json format. Here are few images({}) and their optional categories({}). You have to choose strictly among the given categories and do not give any predictions that are not in the given category.".format(image_names, categories)
 
 
         base64Images = [encode_image(p) for p in subset]
