@@ -2,18 +2,8 @@
 
 
 
-<h2 align="center"> <a href="https://arxiv.org/abs/2311.15732">GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?</a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
+<h2 align="center"> GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?</h2>
 
-
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.15732) 
-[![zhihu](https://img.shields.io/badge/-知乎-000000?logo=zhihu&logoColor=0084FF)](https://zhuanlan.zhihu.com/p/669758735)
-
-
-[Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Huanjin Yao](https://openreview.net/profile?id=~Huanjin_Yao1)<sup>2,3</sup>, [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en)<sup>2,4</sup>, [Yuxin Song](https://openreview.net/profile?id=~YuXin_Song1)<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>5</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>
-
- 
-<sup>1</sup>[The University of Sydney](https://www.sydney.edu.au/), <sup>2</sup>[Baidu](https://vis.baidu.com/#/), <sup>3</sup>[Tsinghua University](https://www.tsinghua.edu.cn/en/), <sup>4</sup>[Tianjin University](https://www.tju.edu.cn/english/index.htm/), <sup>5</sup>[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/#)
 
 
 </div>
@@ -25,36 +15,13 @@ This work delves into an essential, yet must-know baseline in light of the lates
 <img src="docs/method.png" width="800" />
 </div>
 
-<details open><summary>📣 I also have other cross-modal projects that may interest you ✨. </summary><p>
-
-
-> [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
-> Wenhao Wu, Zhun Sun, Wanli Ouyang <br>
-> [![Conference](http://img.shields.io/badge/AAAI-2023-f9f107.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/25386/25158) [![Journal](http://img.shields.io/badge/IJCV-2023-Bf107.svg)](https://link.springer.com/article/10.1007/s11263-023-01876-w) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis) 
-
-
-> [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
-> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
-> [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Bidirectional_Cross-Modal_Knowledge_Exploration_for_Video_Recognition_With_Pre-Trained_Vision-Language_CVPR_2023_paper.html) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/BIKE) 
-
-
-> [**Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?**](https://arxiv.org/abs/2301.00184)<br>
-> Wenhao Wu, Haipeng Luo, Bo Fang, Jingdong Wang, Wanli Ouyang <br>
-> Accepted by CVPR 2023 as 🌟Highlight🌟 | [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Cap4Video)<br>
-
-
-</p></details>
-
 
 
 
 ## News
-- [x] **[Mar 8, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing.
-- [x] **[Mar 7, 2024]** 
-Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! 
+- [x] We shared all results in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! 
 😏 *Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all datasets once is estimated to be around 🔥$4000💰, intended to assist readers in their planning.* 
-- [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
-- [x] **[Nov 27, 2023]** Our prompts have been released. Thanks for your star 😝.
+
 
 
 ## Overview
@@ -103,7 +70,9 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
   python GPT4V_ZS.py
   ```
 
-- All results are available in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! In addition, we've provided the [**Datasets link**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) along with their corresponding ground truths ([**annotations**](./annotations) folder) to help readers in replicating the results.
+- All results are available in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! In addition, we've provided th corresponding ground truths ([**annotations**](./annotations) folder) to help readers in replicating the results.
+
+<div align="center">
 
 | DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -117,6 +86,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 [62.7](./GPT4V_ZS_Results/car.json)  |  [86.2](./GPT4V_ZS_Results/food101.json) | [90.8](./GPT4V_ZS_Results/pets.json) | [83.7](./GPT4V_ZS_Results/ucf_8frame.json) | [58.8](./GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](./GPT4V_ZS_Results/k400.json) | [66.9](./GPT4V_ZS_Results/modelnet10_front.json) |
 |  [Label](./annotations/stanford_cars_gt.json)   |  [Label](./annotations/food_gt.json)   | [Label](./annotations/pets_gt.json)    | [Label](./annotations/ucf_gt.json)   |  [Label](./annotations/hmdb_gt.json)  |  [Label](./annotations/k400_gt.json)  |  [Label](./annotations/modelnet10_gt.json)   |
 
+</div>
 
 - With the provided prediction and annotation files, you can reproduce our top-1/top-5 accuracy results with the [calculate_acc.py](./calculate_acc.py) script.
 
@@ -133,30 +103,4 @@ For guidance on setting up and running the GPT-4 API, we recommend checking out 
 
 
 
-<a name="bibtex"></a>
-## 📌 BibTeX & Citation
 
-If you use our code in your research or wish to refer to the results, please star 🌟 this repo and use the following BibTeX 📑 entry.
-
-```bibtex
-@article{GPT4Vis,
-  title={GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?},
-  author={Wu, Wenhao and Yao, Huanjin and Zhang, Mengxi and Song, Yuxin and Ouyang, Wanli and Wang, Jingdong},
-  booktitle={arXiv preprint arXiv:2311.15732},
-  year={2023}
-}
-```
-
-<a name="acknowledgment"></a>
-## 🎗️ Acknowledgement
-This evaluation is built on the excellent works:
-- [CLIP](https://github.com/openai/CLIP): Learning Transferable Visual Models From Natural Language Supervision
-- [GPT-4](https://platform.openai.com/docs/guides/vision)
-- [Text4Vis](https://github.com/whwu95/Text4Vis): Transferring Vision-Language Models for Visual Recognition: A Classifier Perspective
-  
-We extend our sincere gratitude to these contributors.
-
-
-
-## 👫 Contact
-For any questions, please feel free to file an issue.
