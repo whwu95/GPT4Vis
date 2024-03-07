@@ -105,6 +105,9 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 - All results are available in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! In addition, we've provided the [**Datasets link**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) along with their corresponding ground truths ([**annotations**](./annotations) folder) to help readers in replicating the results.
 
+
+<div align="center">
+
 | DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [57.7](./GPT4V_ZS_Results/dtd.json)  | [46.8](./GPT4V_ZS_Results/eurosat.json) |  [59.2](./GPT4V_ZS_Results/sun397.json) |  [68.7](./GPT4V_ZS_Results/rafdb.json) | [93.7](./GPT4V_ZS_Results/caltech101.json)  |  [63.1](./GPT4V_ZS_Results/imagenet.json) | [56.6](./GPT4V_ZS_Results/aircraft.json) |  [69.1](./GPT4V_ZS_Results/flower102.json) | 
@@ -116,6 +119,8 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [62.7](./GPT4V_ZS_Results/car.json)  |  [86.2](./GPT4V_ZS_Results/food101.json) | [90.8](./GPT4V_ZS_Results/pets.json) | [83.7](./GPT4V_ZS_Results/ucf_8frame.json) | [58.8](./GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](./GPT4V_ZS_Results/k400.json) | [66.9](./GPT4V_ZS_Results/modelnet10_front.json) |
 |  [Label](./annotations/stanford_cars_gt.json)   |  [Label](./annotations/food_gt.json)   | [Label](./annotations/pets_gt.json)    | [Label](./annotations/ucf_gt.json)   |  [Label](./annotations/hmdb_gt.json)  |  [Label](./annotations/k400_gt.json)  |  [Label](./annotations/modelnet10_gt.json)   |
+
+</div>
 
 
 - With the provided prediction and annotation files, you can reproduce our top-1/top-5 accuracy results with the [calculate_acc.py](./calculate_acc.py) script.
