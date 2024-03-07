@@ -51,7 +51,8 @@ This work delves into an essential, yet must-know baseline in light of the lates
 ## News
 - [x] **[Mar 8, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing.
 - [x] **[Mar 7, 2024]** 
-Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! *Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all datasets once is estimated to be around $4000, intended to assist readers in their planning.*
+Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! 
+😏 *Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all datasets once is estimated to be around 🔥$4000💰, intended to assist readers in their planning.* 
 - [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
 - [x] **[Nov 27, 2023]** Our prompts have been released. Thanks for your star 😝.
 
