@@ -117,6 +117,14 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/stanford_cars_gt.json)   |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/food_gt.json)   | [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/pets_gt.json)    | [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/ucf_gt.json)   |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/hmdb_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/k400_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/modelnet10_gt.json)   |
 
 
+- With the provided prediction and annotation files, you can reproduce our top-1/top-5 accuracy results with the [calculate_acc.py](https://github.com/whwu95/GPT4Vis/tree/main/calculate_acc.py) script.
+
+  ```sh
+  # pred_json_path = 'GPT4V_ZS_Results/imagenet.json'
+  # gt_json_path = 'annotations/imagenet_gt.json'
+  python calculate_acc.py
+  ```
+
 ## Requirement
 For guidance on setting up and running the GPT-4 API, we recommend checking out the official OpenAI Quickstart documentation available at: [OpenAI Quickstart Guide](https://platform.openai.com/docs/quickstart).
 
