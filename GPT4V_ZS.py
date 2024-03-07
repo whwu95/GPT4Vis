@@ -105,7 +105,6 @@ while True:
         #     file.write(str(result.usage)+'\n')
 
         i = i + 1
-        time.sleep(2)
 
     except Exception as e:
         current_date_and_time = datetime.now()
@@ -113,4 +112,4 @@ while True:
         # log_error.append(error_information)
         with open(log_path, 'a') as f:
             f.writelines(error_information)
-        time.sleep(60)
+        time.sleep(2)
