@@ -1,0 +1,8154 @@
+[
+    {
+        "bed/00738": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "bed/00438": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "dresser/02220": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "monitor",
+            "chair"
+        ]
+    },
+    {
+        "dresser/02238": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "monitor",
+            "chair"
+        ]
+    },
+    {
+        "bathtub/00138": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01752": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00198": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02142": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00546": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bathtub/00228": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00720": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01608": [
+            "dresser",
+            "desk",
+            "table",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01206": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00324": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "chair"
+        ]
+    },
+    {
+        "desk/01992": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "dresser/02382": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01638": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02304": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01290": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02106": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00084": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "chair/01398": [
+            "chair",
+            "desk",
+            "sofa",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02358": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02280": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00504": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "desk/01680": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02028": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00108": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00078": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00708": [
+            "bed",
+            "sofa",
+            "desk",
+            "dresser",
+            "bathtub"
+        ]
+    },
+    {
+        "chair/00906": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01764": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01758": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01782": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01428": [
+            "chair",
+            "sofa",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00744": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01536": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01542": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00780": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01284": [
+            "chair",
+            "sofa",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01224": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00870": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "desk/01776": [
+            "sofa",
+            "chair",
+            "table",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "bed/00702": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "bed/00384": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "bathtub/00144": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "night_stand",
+            "toilet"
+        ]
+    },
+    {
+        "dresser/02226": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "dresser/02112": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "bathtub/00258": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "night_stand",
+            "table"
+        ]
+    },
+    {
+        "desk/01572": [
+            "desk",
+            "night_stand",
+            "table",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "bed/00726": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02424": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "bed/00606": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00042": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "toilet",
+            "sink"
+        ]
+    },
+    {
+        "chair/01344": [
+            "chair",
+            "desk",
+            "sofa",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "dresser/02082": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01530": [
+            "desk",
+            "table",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00522": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "bed/00576": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "chair/01320": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00678": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "desk/01824": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02166": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02040": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "dresser/02352": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02256": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00840": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01098": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00006": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01260": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/01092": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/00918": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00762": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "desk/01998": [
+            "desk",
+            "table",
+            "chair",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "bed/00492": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "desk/01668": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bed/00354": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "desk/01710": [
+            "table",
+            "desk",
+            "chair",
+            "bed",
+            "sofa"
+        ]
+    },
+    {
+        "dresser/02490": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01656": [
+            "desk",
+            "table",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02064": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01908": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01590": [
+            "sofa",
+            "bed",
+            "monitor",
+            "chair",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01380": [
+            "desk",
+            "dresser",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02436": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01416": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02460": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01386": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01212": [
+            "desk",
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bed/00528": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "desk/01968": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00396": [
+            "bed",
+            "sofa",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00126": [
+            "bathtub",
+            "sink",
+            "toilet",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01806": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "bed/00690": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00150": [
+            "bathtub",
+            "bed",
+            "sofa",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "bed/00828": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01326": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00594": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "bathtub"
+        ]
+    },
+    {
+        "desk/01914": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01506": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00804": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00174": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/01470": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01836": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02346": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01410": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00636": [
+            "bed",
+            "sofa",
+            "table",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "bed/00474": [
+            "bed",
+            "sofa",
+            "table",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "chair/00996": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01494": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01446": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00450": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02172": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00402": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00000": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02484": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01566": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01920": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00156": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00432": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "chair/01062": [
+            "chair",
+            "desk",
+            "sofa",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01068": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00192": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02274": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00018": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "toilet"
+        ]
+    },
+    {
+        "desk/01974": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01338": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01524": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00570": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "bathtub"
+        ]
+    },
+    {
+        "desk/01578": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00372": [
+            "bed",
+            "sofa",
+            "bench",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01560": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02022": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02184": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02268": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00774": [
+            "bed",
+            "sofa",
+            "monitor",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01356": [
+            "chair",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01878": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01932": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00222": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "desk/01956": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01686": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00276": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "dresser/02316": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00426": [
+            "bed",
+            "sofa",
+            "desk",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "dresser/02076": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02400": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01734": [
+            "desk",
+            "table",
+            "dresser",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01458": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02034": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "chair/01374": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00030": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01032": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00798": [
+            "bed",
+            "sofa",
+            "table",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02508": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00480": [
+            "bed",
+            "sofa",
+            "table",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "chair/00942": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00054": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "chair/01422": [
+            "chair",
+            "table",
+            "desk",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00162": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "desk/01890": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "chair/01002": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01362": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01986": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01302": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01770": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01014": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00732": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00120": [
+            "table",
+            "desk",
+            "night_stand",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00600": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00654": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02454": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01194": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02430": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02322": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01896": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02214": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00282": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01800": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/00990": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01902": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01944": [
+            "table",
+            "desk",
+            "dresser",
+            "sofa",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01818": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bed/00888": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bed/00768": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "desk/01812": [
+            "desk",
+            "dresser",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00336": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "bathtub/00066": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "chair/01314": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00132": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "dresser/02058": [
+            "toilet",
+            "night_stand",
+            "monitor",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "bed/00642": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "desk/02010": [
+            "desk",
+            "table",
+            "chair",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01848": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "chair/01128": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00876": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00684": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00792": [
+            "desk",
+            "table",
+            "dresser",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01980": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00588": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02418": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02370": [
+            "monitor",
+            "desk",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "bed/00486": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00672": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "chair/00972": [
+            "chair",
+            "sofa",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01350": [
+            "chair",
+            "sofa",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01164": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00582": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bathtub/00096": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00462": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00540": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01662": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00420": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01152": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "desk/01554": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01500": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01008": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01632": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01626": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01254": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00246": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "bed/00852": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00294": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02334": [
+            "dresser",
+            "desk",
+            "table",
+            "night_stand",
+            "bed"
+        ]
+    },
+    {
+        "chair/01170": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01104": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "desk/01674": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "chair/01086": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "bed/00456": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "desk/01794": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02202": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00114": [
+            "bathtub",
+            "sofa",
+            "table",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01614": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01926": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02340": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02376": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00816": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "chair/01266": [
+            "chair",
+            "desk",
+            "sofa",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00378": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/00930": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01392": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01440": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "dresser/02328": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00552": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00408": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bed/00846": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "dresser/02244": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00624": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "chair/01188": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02496": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01026": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00312": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "desk/01842": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01746": [
+            "table",
+            "desk",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02466": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01110": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01488": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02148": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00252": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00060": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "bed/00858": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/00912": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "dresser/02298": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01044": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "dresser/02070": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00330": [
+            "bed",
+            "sofa",
+            "desk",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "bed/00696": [
+            "bed",
+            "sofa",
+            "desk",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01278": [
+            "desk",
+            "chair",
+            "monitor",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01158": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "desk/01596": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02094": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00498": [
+            "bed",
+            "sofa",
+            "bench",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01650": [
+            "sofa",
+            "bed",
+            "bench",
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "chair/01200": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bed/00366": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02016": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02526": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00750": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "bed/00444": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01728": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "desk/01698": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01230": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00516": [
+            "bed",
+            "sofa",
+            "desk",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01056": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "bathtub/00240": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "dresser/02118": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "bed/00822": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "bed/00648": [
+            "sofa",
+            "bed",
+            "bathtub",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02514": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00810": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01830": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00660": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01146": [
+            "chair",
+            "desk",
+            "sofa",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "chair/01476": [
+            "desk",
+            "chair",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01704": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01950": [
+            "desk",
+            "dresser",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00270": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "desk/01512": [
+            "bed",
+            "sofa",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "bathtub/00186": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00204": [
+            "bathtub",
+            "toilet",
+            "bed",
+            "sofa",
+            "sink"
+        ]
+    },
+    {
+        "bed/00714": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "desk/01740": [
+            "desk",
+            "table",
+            "dresser",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01182": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/00924": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02088": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02472": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01860": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01296": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01644": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "bed"
+        ]
+    },
+    {
+        "bed/00306": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "bed/00558": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "desk/01692": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "bed"
+        ]
+    },
+    {
+        "bed/00468": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02388": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02310": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02100": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02154": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00348": [
+            "bed",
+            "sofa",
+            "desk",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02262": [
+            "refrigerator",
+            "dresser",
+            "night_stand",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00180": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "chair/01050": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00318": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01020": [
+            "chair",
+            "desk",
+            "sofa",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00882": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00534": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "desk/01938": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01584": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01866": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00102": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/01038": [
+            "chair",
+            "sofa",
+            "night_stand",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "dresser/02364": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01788": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02208": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02130": [
+            "sofa",
+            "chair",
+            "bed",
+            "bathtub",
+            "toilet"
+        ]
+    },
+    {
+        "bed/00864": [
+            "bed",
+            "sofa",
+            "desk",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bathtub/00036": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "dresser/02520": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "bed",
+            "sofa"
+        ]
+    },
+    {
+        "chair/00960": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00012": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "dresser/02448": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00666": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "chair/01122": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/01140": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/01464": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "chair/00966": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01308": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02124": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00300": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "desk/01722": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "chair/01218": [
+            "chair",
+            "sofa",
+            "desk",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "desk/02004": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00168": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "chair/01272": [
+            "sofa",
+            "chair",
+            "desk",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "dresser/02250": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01452": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01074": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00360": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01872": [
+            "desk",
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00048": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "dresser",
+            "bed"
+        ]
+    },
+    {
+        "bed/00834": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "chair/01236": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00264": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "chair/00948": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00234": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "chair/01242": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01080": [
+            "desk",
+            "night_stand",
+            "table",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02046": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "chair/00984": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00612": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "dresser/02502": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00894": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "bed/00618": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "chair/00936": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "monitor",
+            "chair"
+        ]
+    },
+    {
+        "chair/01482": [
+            "chair",
+            "desk",
+            "table",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "desk/01854": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "chair/00978": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "dresser/02052": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "dresser/02292": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "desk/01884": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02442": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02136": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00630": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "dresser/02178": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00024": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "bathtub/00072": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "chair/01134": [
+            "chair",
+            "sofa",
+            "desk",
+            "bathtub",
+            "bed"
+        ]
+    },
+    {
+        "bed/00414": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "chair/01176": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "bed/00342": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01620": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00090": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "toilet",
+            "chair"
+        ]
+    },
+    {
+        "desk/01548": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "desk/01962": [
+            "desk",
+            "dresser",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01404": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "night_stand"
+        ]
+    },
+    {
+        "dresser/02160": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02394": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01248": [
+            "chair",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00510": [
+            "bed",
+            "sofa",
+            "bench",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "dresser/02232": [
+            "dresser",
+            "desk",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01116": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02190": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00210": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "dresser/02196": [
+            "desk",
+            "dresser",
+            "table",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "dresser/02478": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00390": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "desk/01602": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "chair/01434": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "bed/00564": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "chair"
+        ]
+    },
+    {
+        "desk/01518": [
+            "desk",
+            "table",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02286": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "bathtub/00288": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "toilet",
+            "monitor"
+        ]
+    },
+    {
+        "desk/01716": [
+            "sofa",
+            "table",
+            "desk",
+            "bed",
+            "dresser"
+        ]
+    },
+    {
+        "dresser/02406": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "bed/00786": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "desk",
+            "toilet"
+        ]
+    },
+    {
+        "chair/00900": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/01368": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "dresser/02412": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bed/00756": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "chair/01332": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "chair/00954": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "bathtub/00216": [
+            "bathtub",
+            "sink",
+            "toilet",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02856": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02928": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05166": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "sofa",
+            "desk"
+        ]
+    },
+    {
+        "night_stand/03216": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02658": [
+            "desk",
+            "table",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03360": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05034": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "table/04698": [
+            "table",
+            "desk",
+            "night_stand",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04242": [
+            "sofa",
+            "chair",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03624": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04986": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "night_stand/03438": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05106": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02982": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04464": [
+            "table",
+            "desk",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04098": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02646": [
+            "monitor",
+            "desk",
+            "table",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03174": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03792": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/05316": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "monitor/03072": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05094": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04200": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04194": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03726": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "toilet/04866": [
+            "toilet",
+            "bathtub",
+            "desk",
+            "dresser",
+            "sink"
+        ]
+    },
+    {
+        "table/04296": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05226": [
+            "toilet",
+            "bathtub",
+            "desk",
+            "dresser",
+            "sink"
+        ]
+    },
+    {
+        "table/04518": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03258": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05346": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03600": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05016": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "table/04596": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02916": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04392": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03312": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03534": [
+            "night_stand",
+            "table",
+            "desk",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04848": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03504": [
+            "night_stand",
+            "table",
+            "desk",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02706": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04368": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03660": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05202": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "bidet",
+            "shower"
+        ]
+    },
+    {
+        "table/04338": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04836": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04608": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03846": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/03054": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04164": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03558": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03234": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/03036": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04056": [
+            "sofa",
+            "chair",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02778": [
+            "desk",
+            "monitor",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04680": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04752": [
+            "desk",
+            "table",
+            "sofa",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02688": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05250": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "table/04806": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04380": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03240": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04002": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04656": [
+            "table",
+            "desk",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03270": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04092": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02730": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03324": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/03078": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04620": [
+            "table",
+            "desk",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02952": [
+            "bed",
+            "sofa",
+            "dresser",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03894": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05232": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "bathroom_cabinet",
+            "shower"
+        ]
+    },
+    {
+        "sofa/04104": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04452": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03912": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/03930": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04704": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "table/04260": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03300": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "table/04776": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04350": [
+            "sofa",
+            "chair",
+            "desk",
+            "bed",
+            "table"
+        ]
+    },
+    {
+        "sofa/03822": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02994": [
+            "bathtub",
+            "sofa",
+            "chair",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "table/04716": [
+            "desk",
+            "table",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04878": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "table/04302": [
+            "table",
+            "desk",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04794": [
+            "chair",
+            "sofa",
+            "desk",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "toilet/05022": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03156": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04158": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02640": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03942": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/04206": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02628": [
+            "monitor",
+            "tv",
+            "desk",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02616": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04434": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04524": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05010": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05394": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03378": [
+            "night_stand",
+            "desk",
+            "dresser",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02868": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03546": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02598": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02886": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04068": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/03870": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/05238": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04638": [
+            "table",
+            "desk",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/03108": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/03114": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05130": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03834": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04140": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05082": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04356": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "monitor/02670": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02532": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04746": [
+            "table",
+            "desk",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04146": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05214": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03918": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04860": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03738": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03720": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03252": [
+            "night_stand",
+            "desk",
+            "table",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02934": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02550": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03882": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05268": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "table/04290": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/03120": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02676": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05292": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04632": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03948": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/05358": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02610": [
+            "monitor",
+            "desk",
+            "table",
+            "sofa",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05076": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "desk",
+            "sofa"
+        ]
+    },
+    {
+        "table/04566": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02682": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03636": [
+            "sofa",
+            "bed",
+            "chair",
+            "bathtub",
+            "toilet"
+        ]
+    },
+    {
+        "night_stand/03276": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05244": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/04062": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "bathtub"
+        ]
+    },
+    {
+        "sofa/03684": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "night_stand/03168": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02844": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03954": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "monitor/02790": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03564": [
+            "chair",
+            "night_stand",
+            "table",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03540": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "sofa/04032": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/03024": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03210": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "sofa/04086": [
+            "sofa",
+            "chair",
+            "bed",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "monitor/03006": [
+            "bed",
+            "sofa",
+            "desk",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "table/04758": [
+            "desk",
+            "table",
+            "dresser",
+            "monitor",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05040": [
+            "chair",
+            "sofa",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02964": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04770": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04902": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03798": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03924": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "table/04308": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05400": [
+            "monitor",
+            "desk",
+            "table",
+            "tv_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/03060": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03336": [
+            "monitor",
+            "tv_stand",
+            "desk",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "monitor/02538": [
+            "table",
+            "desk",
+            "monitor",
+            "night_stand",
+            "sofa"
+        ]
+    },
+    {
+        "table/04476": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/03084": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04440": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04446": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03402": [
+            "night_stand",
+            "dresser",
+            "table",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04896": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04326": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04788": [
+            "table",
+            "desk",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02574": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04626": [
+            "monitor",
+            "desk",
+            "table",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02826": [
+            "bed",
+            "sofa",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05112": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05184": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/03102": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "bed",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05406": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02904": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03522": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03594": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04884": [
+            "sofa",
+            "chair",
+            "bed",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04422": [
+            "table",
+            "desk",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04842": [
+            "chair",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "desk"
+        ]
+    },
+    {
+        "sofa/04212": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/04026": [
+            "monitor",
+            "bed",
+            "desk",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "toilet/05058": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04920": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "table/04284": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03960": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "table"
+        ]
+    },
+    {
+        "table/04530": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03306": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03756": [
+            "night_stand",
+            "dresser",
+            "table",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05310": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "table/04782": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02754": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04926": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04122": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "table/04500": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02808": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05160": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "sofa",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02958": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04182": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "sofa/04188": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "table/04554": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04362": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03384": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03408": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/04890": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02988": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03786": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02562": [
+            "monitor",
+            "desk",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03630": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "table/04410": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05148": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03330": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05418": [
+            "sofa",
+            "bed",
+            "chair",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05124": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "desk",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03696": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "monitor/03012": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03852": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03474": [
+            "desk",
+            "night_stand",
+            "dresser",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "monitor/02586": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04266": [
+            "table",
+            "desk",
+            "night_stand",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02694": [
+            "monitor",
+            "desk",
+            "table",
+            "tv_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04908": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03972": [
+            "sofa",
+            "chair",
+            "bed",
+            "bench",
+            "table"
+        ]
+    },
+    {
+        "table/04488": [
+            "table",
+            "desk",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "sofa/04038": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/03978": [
+            "monitor",
+            "desk",
+            "dresser",
+            "night_stand",
+            "sofa"
+        ]
+    },
+    {
+        "table/04614": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03858": [
+            "sofa",
+            "chair",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05424": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "table/04644": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03990": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03264": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03744": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02652": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03132": [
+            "night_stand",
+            "desk",
+            "dresser",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "night_stand/03186": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04674": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04830": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05322": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04482": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03888": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05208": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/03018": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05100": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02814": [
+            "monitor",
+            "desk",
+            "table",
+            "sofa",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02940": [
+            "monitor",
+            "desk",
+            "tv_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "table/04824": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04110": [
+            "sofa",
+            "bed",
+            "bathtub",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "sofa/04074": [
+            "sofa",
+            "bed",
+            "bathtub",
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03204": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02664": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05046": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03816": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03906": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04650": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05142": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03876": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/03702": [
+            "chair",
+            "sofa",
+            "desk",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02724": [
+            "monitor",
+            "desk",
+            "chair",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03462": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03618": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02970": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03372": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04734": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03528": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04686": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04428": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/03126": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03222": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03420": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03450": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02910": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04548": [
+            "table",
+            "desk",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02760": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04572": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05064": [
+            "toilet",
+            "bathtub",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04170": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03294": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "table/04314": [
+            "table",
+            "desk",
+            "chair",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03348": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05298": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05274": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05154": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05220": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03138": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05370": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04230": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03642": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "toilet/05328": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04020": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04506": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02784": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02592": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03390": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03444": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05052": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "night_stand/03576": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/04932": [
+            "sofa",
+            "chair",
+            "bed",
+            "bathtub",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02862": [
+            "desk",
+            "table",
+            "dresser",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03228": [
+            "chair",
+            "table",
+            "desk",
+            "sofa",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03810": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03690": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05070": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04128": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/04980": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "table/04344": [
+            "chair",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/03030": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04218": [
+            "sofa",
+            "bed",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04458": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03732": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "table/04332": [
+            "monitor",
+            "desk",
+            "table",
+            "tv_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02898": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04872": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05442": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03282": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "table/04278": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02976": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04542": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04512": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03762": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "desk"
+        ]
+    },
+    {
+        "monitor/03048": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03588": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02772": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04992": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "sofa",
+            "chair"
+        ]
+    },
+    {
+        "night_stand/03354": [
+            "chair",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03180": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05430": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03342": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04662": [
+            "table",
+            "desk",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05412": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03192": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03678": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04008": [
+            "bed",
+            "sofa",
+            "night_stand",
+            "dresser",
+            "chair"
+        ]
+    },
+    {
+        "sofa/04236": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "toilet/04950": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "sofa"
+        ]
+    },
+    {
+        "monitor/02802": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04590": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04044": [
+            "sofa",
+            "chair",
+            "bed",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02718": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02736": [
+            "desk",
+            "monitor",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03246": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04374": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04272": [
+            "sofa",
+            "bathtub",
+            "bed",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03714": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "night_stand/03456": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "toilet/04956": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05376": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/04962": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03828": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/04176": [
+            "chair",
+            "sofa",
+            "table",
+            "desk",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02838": [
+            "bed"
+        ]
+    },
+    {
+        "monitor/03090": [
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05172": [
+            "toilet"
+        ]
+    },
+    {
+        "table/04560": [
+            "sofa"
+        ]
+    },
+    {
+        "table/04602": [
+            "table"
+        ]
+    },
+    {
+        "sofa/04224": [
+            "sofa",
+            "chair",
+            "bed",
+            "sofa",
+            "desk"
+        ]
+    },
+    {
+        "monitor/03000": [
+            "desk",
+            "table",
+            "monitor",
+            "desk",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05280": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "toilet",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05196": [
+            "table",
+            "desk",
+            "monitor",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/04974": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "toilet",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05028": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02880": [
+            "monitor",
+            "tv",
+            "computer",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/04914": [
+            "sofa",
+            "chair",
+            "loveseat",
+            "couch",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02712": [
+            "chair",
+            "sofa",
+            "stool",
+            "bench",
+            "desk"
+        ]
+    },
+    {
+        "night_stand/03582": [
+            "dresser",
+            "night_stand",
+            "wardrobe",
+            "cabinet",
+            "desk"
+        ]
+    },
+    {
+        "monitor/02850": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03552": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03414": [
+            "monitor",
+            "tv",
+            "computer",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/03066": [
+            "bed",
+            "sofa",
+            "bathtub",
+            "table",
+            "dresser"
+        ]
+    },
+    {
+        "table/04470": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/04116": [
+            "bathtub",
+            "sofa",
+            "bed",
+            "monitor",
+            "desk"
+        ]
+    },
+    {
+        "table/04398": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02634": [
+            "monitor",
+            "desk",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03570": [
+            "dresser",
+            "desk",
+            "night_stand",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "toilet/05256": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04812": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04320": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05088": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "toilet/05004": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03396": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02568": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "bed",
+            "sofa"
+        ]
+    },
+    {
+        "toilet/05436": [
+            "monitor",
+            "tv",
+            "computer",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03492": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "monitor/02544": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05340": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "bed",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03198": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04740": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03654": [
+            "bed",
+            "sofa",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03672": [
+            "sofa",
+            "bed",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03996": [
+            "sofa",
+            "bed",
+            "chair",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03498": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "sofa/03840": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/04998": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04800": [
+            "table",
+            "desk",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02832": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/05262": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "bed",
+            "monitor"
+        ]
+    },
+    {
+        "table/04254": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03750": [
+            "sofa",
+            "chair",
+            "bed",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04536": [
+            "desk",
+            "table",
+            "monitor",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02700": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/03804": [
+            "sofa",
+            "chair",
+            "bed",
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "toilet/05136": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "sofa/03984": [
+            "table",
+            "desk",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03606": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02892": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04404": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "monitor/02580": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03366": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03768": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02796": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03480": [
+            "chair",
+            "table",
+            "desk",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02766": [
+            "monitor",
+            "desk",
+            "table",
+            "chair",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03774": [
+            "bathtub",
+            "toilet",
+            "sofa",
+            "bed",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04968": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "sofa",
+            "dresser"
+        ]
+    },
+    {
+        "night_stand/03612": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "chair"
+        ]
+    },
+    {
+        "table/04578": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03516": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04854": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03144": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05304": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "sofa"
+        ]
+    },
+    {
+        "night_stand/03426": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03150": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03468": [
+            "sofa",
+            "bed",
+            "chair",
+            "monitor",
+            "table"
+        ]
+    },
+    {
+        "sofa/04014": [
+            "bed",
+            "sofa",
+            "chair",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "table/04386": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03510": [
+            "desk",
+            "table",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04584": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "toilet/05388": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "chair"
+        ]
+    },
+    {
+        "table/04416": [
+            "table",
+            "desk",
+            "bed",
+            "sofa",
+            "chair"
+        ]
+    },
+    {
+        "toilet/05334": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "chair"
+        ]
+    },
+    {
+        "table/04668": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03162": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "table/04710": [
+            "desk",
+            "table",
+            "monitor",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02556": [
+            "monitor",
+            "desk",
+            "table",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02604": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "monitor",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03666": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02946": [
+            "monitor",
+            "desk",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "sofa/03708": [
+            "sofa",
+            "chair",
+            "bed",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05352": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "monitor/02874": [
+            "monitor",
+            "desk",
+            "night_stand",
+            "dresser",
+            "table"
+        ]
+    },
+    {
+        "sofa/04152": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/02622": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04080": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "table/04494": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03936": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "table/04692": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05286": [
+            "toilet",
+            "bathtub",
+            "sofa",
+            "chair",
+            "bed"
+        ]
+    },
+    {
+        "sofa/03780": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "monitor/03042": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "table/04764": [
+            "bed",
+            "sofa",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "sofa/03648": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04722": [
+            "monitor",
+            "desk",
+            "dresser",
+            "night_stand",
+            "table"
+        ]
+    },
+    {
+        "monitor/02742": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04728": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05382": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02922": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04134": [
+            "sofa",
+            "bed",
+            "chair",
+            "bathtub",
+            "table"
+        ]
+    },
+    {
+        "sofa/03966": [
+            "sofa",
+            "bed",
+            "chair",
+            "bathtub",
+            "table"
+        ]
+    },
+    {
+        "monitor/03096": [
+            "monitor",
+            "desk",
+            "dresser",
+            "table",
+            "night_stand"
+        ]
+    },
+    {
+        "sofa/04050": [
+            "sofa",
+            "bed",
+            "chair",
+            "bathtub",
+            "table"
+        ]
+    },
+    {
+        "toilet/05118": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/05190": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "table/04818": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "monitor/02820": [
+            "table",
+            "desk",
+            "night_stand",
+            "dresser",
+            "monitor"
+        ]
+    },
+    {
+        "table/04248": [
+            "bed",
+            "sofa",
+            "chair",
+            "night_stand",
+            "dresser"
+        ]
+    },
+    {
+        "toilet/04938": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "toilet/05178": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03318": [
+            "desk",
+            "table",
+            "dresser",
+            "night_stand",
+            "monitor"
+        ]
+    },
+    {
+        "night_stand/03432": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "dresser"
+        ]
+    },
+    {
+        "sofa/03900": [
+            "sofa",
+            "chair",
+            "bed",
+            "desk",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/04944": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "dresser",
+            "night_stand"
+        ]
+    },
+    {
+        "night_stand/03288": [
+            "dresser",
+            "night_stand",
+            "desk",
+            "table",
+            "monitor"
+        ]
+    },
+    {
+        "toilet/05364": [
+            "toilet",
+            "bathtub",
+            "sink",
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "sofa/03864": [
+            "sofa",
+            "bed",
+            "chair",
+            "desk",
+            "table"
+        ]
+    },
+    {
+        "night_stand/03486": [
+            "night_stand",
+            "dresser",
+            "desk",
+            "table",
+            "bed"
+        ]
+    },
+    {
+        "monitor/02748": [
+            "monitor",
+            "desk",
+            "table",
+            "dresser",
+            "night_stand"
+        ]
+    }
+]

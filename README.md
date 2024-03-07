@@ -106,14 +106,14 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 | DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [57.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/DTD.json)  | [46.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/EuroSAT.json) |  [59.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/SUN397.json) |  [68.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/RAF-DB.json) | [93.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Caltech101.json)  |  [xx](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ImageNet-1K.json) | [56.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/FGVC-Aircraft.json) |  [69.1](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Flower102.json) | 
+| [57.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/dtd.json)  | [46.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/eurosat.json) |  [59.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/sun397.json) |  [68.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/rafdb.json) | [93.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/caltech101.json)  |  [xx](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ImageNet-1K.json) | [56.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/aircraft.json) |  [69.1](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/flower102.json) | 
 |  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data  | Data   |  
 |  Label  |  Label  | Label   | Label   |  Label  |  Label  |  Label  | Label   |  
 
 
 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/StanfordCars.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/UCF101.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/HMDB51.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/K400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ModelNet10.json) |
+[62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/car.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ucf_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/k400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/modelnet10_front.json) |
 |  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data |
 |  Label  |  Label  | Label   | Label   |  Label  |  Label  |  Label  |
 
