@@ -51,7 +51,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 ## News
 - [x] **[Mar 8, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing.
 - [x] **[Mar 7, 2024]** 
-Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! *Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all 16 datasets once is estimated to be around $4000, intended to assist readers in their planning.*
+Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! **Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all datasets once is estimated to be around $4000, intended to assist readers in their planning.**
 - [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
 - [x] **[Nov 27, 2023]** Our prompts have been released. Thanks for your star 😝.
 
@@ -102,20 +102,20 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
   python GPT4V_ZS.py
   ```
 
-- All results are available in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! In addition, we've provided the datasets along with their corresponding ground truths to help readers in replicating the results.
+- All results are available in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! In addition, we've provided the datasets along with their corresponding ground truths ([**annotations**](https://github.com/whwu95/GPT4Vis/tree/main/annotations) folder) to help readers in replicating the results.
 
 | DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [57.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/dtd.json)  | [46.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/eurosat.json) |  [59.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/sun397.json) |  [68.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/rafdb.json) | [93.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/caltech101.json)  |  [xx](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ImageNet-1K.json) | [56.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/aircraft.json) |  [69.1](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/flower102.json) | 
-|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data  | Data   |  
-|  Label  |  Label  | Label   | Label   |  Label  |  Label  |  Label  | Label   |  
+|  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/dtd_gt.json)  |  Label  | Label   | Label   |  Label  |  Label  |  Label  | Label   |
+|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data  | Data   |    
 
 
 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/car.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ucf_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/k400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/modelnet10_front.json) |
-|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data |
 |  Label  |  Label  | Label   | Label   |  Label  |  Label  |  Label  |
+|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data |
 
 ## Requirement
 For guidance on setting up and running the GPT-4 API, we recommend checking out the official OpenAI Quickstart documentation available at: [OpenAI Quickstart Guide](https://platform.openai.com/docs/quickstart).
