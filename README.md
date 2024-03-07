@@ -49,6 +49,9 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 ## News
+- [x] **[Mar 8, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing.
+- [x] **[Mar 7, 2024]** 
+Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request) and shared all results in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! *Additionally, we offer a reference data point: the total cost of invoking the GPT-4V API to test across all 16 datasets once is estimated to be around $4000, intended to assist readers in their planning.*
 - [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
 - [x] **[Nov 27, 2023]** Our prompts have been released. Thanks for your star 😝.
 
@@ -73,7 +76,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 ## Generated Descriptions from GPT-4
 
 <div align="center">
-<img src="docs/generated_sentences.png" width="500" />
+<img src="docs/generated_sentences.png" width="800" />
 </div>
 
 - We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4_generated_prompts) folder. Enjoy exploring!
@@ -88,7 +91,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 ## GPT-4V(ision) for Visual Recognition
 <div align="center">
-<img src="docs/gpt4v_prompt.jpg" width="500" />
+<img src="docs/gpt4v_prompt.png" width="800" />
 </div>
 
 - We share an example script that demonstrates how to use the GPT-4V API for zero-shot predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](https://github.com/whwu95/GPT4Vis/blob/main/GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
@@ -97,10 +100,13 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
   # GPT4V zero-shot recognition script. 
   # dataset_name = ["Dataset Name Here"]   # e.g., dtd
   python GPT4V_ZS.py
-
-  # We also provide a script for batch testing with each request (larger batch sizes may lead to instability).
-  python GPT4V_ZS_batch.py
   ```
+
+- All results are available in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! In addition, we've provided the datasets along with their corresponding ground truths to help readers in replicating the results.
+
+| DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [57.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/DTD.json)  | [46.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/EuroSAT.json) |  [59.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/SUN397.json) |  [68.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/RAF-DB.json) | [93.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Caltech101.json)  |  [xx](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ImageNet-1K.json) | [56.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/FGVC-Aircraft.json) |  [69.1](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Flower102.json) | [62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/StanfordCars.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/Pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/UCF101.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/HMDB51.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/K400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ModelNet10.json) |
 
 ## Requirement
 For guidance on setting up and running the GPT-4 API, we recommend checking out the official OpenAI Quickstart documentation available at: [OpenAI Quickstart Guide](https://platform.openai.com/docs/quickstart).
