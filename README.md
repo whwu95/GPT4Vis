@@ -102,20 +102,20 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
   python GPT4V_ZS.py
   ```
 
-- All results are available in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! In addition, we've provided the datasets along with their corresponding ground truths ([**annotations**](https://github.com/whwu95/GPT4Vis/tree/main/annotations) folder) to help readers in replicating the results.
+- All results are available in the [**GPT4V_ZS_Results**](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results) folder! In addition, we've provided the [**Datasets link**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) along with their corresponding ground truths ([**annotations**](https://github.com/whwu95/GPT4Vis/tree/main/annotations) folder) to help readers in replicating the results.
 
 | DTD |  EuroSAT |  SUN397 |  RAF-DB |  Caltech101  | ImageNet-1K | FGVC-Aircraft | Flower102 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [57.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/dtd.json)  | [46.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/eurosat.json) |  [59.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/sun397.json) |  [68.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/rafdb.json) | [93.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/caltech101.json)  |  [xx](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ImageNet-1K.json) | [56.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/aircraft.json) |  [69.1](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/flower102.json) | 
 |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/dtd_gt.json)  |  Label  | Label   | Label   |  Label  |  Label  |  Label  | Label   |
-|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data  | Data   |    
+   
 
 
 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/car.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ucf_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/k400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/modelnet10_front.json) |
 |  Label  |  Label  | Label   | [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/ucf_gt.json)   |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/hmdb_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/k400_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/modelnet10_gt.json)   |
-|  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data |
+
 
 ## Requirement
 For guidance on setting up and running the GPT-4 API, we recommend checking out the official OpenAI Quickstart documentation available at: [OpenAI Quickstart Guide](https://platform.openai.com/docs/quickstart).
