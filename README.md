@@ -114,7 +114,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [62.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/car.json)  |  [86.2](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/food101.json) | [90.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/pets.json) | [83.7](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/ucf_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/k400.json) | [66.6](https://github.com/whwu95/GPT4Vis/tree/main/GPT4V_ZS_Results/modelnet10_front.json) |
-|  Label  |  Label  | Label   | Label   |  Label  |  Label  |  Label  |
+|  Label  |  Label  | Label   | [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/ucf_gt.json)   |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/hmdb_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/k400_gt.json)  |  [Label](https://github.com/whwu95/GPT4Vis/tree/main/annotations/modelnet10_gt.json)   |
 |  Data  |  Data  | Data   | Data   |  Data  |  Data  |  Data |
 
 ## Requirement
