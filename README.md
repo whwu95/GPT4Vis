@@ -82,7 +82,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 - We have pre-generated descriptive sentences for all the categories across the datasets, which you can find in the [**GPT_generated_prompts**](./GPT4_generated_prompts) folder. Enjoy exploring!
 
-- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](https://github.com/whwu95/GPT4Vis/blob/main/generate_prompt.py) file. Happy coding! Please refer to the [**config**](./config) folder for detailed information on all datasets used in our project. 
+- We've also provided the example script to help you generate descriptions using GPT-4. For guidance on this, please refer to the [generate_prompt.py](./generate_prompt.py) file. Happy coding! Please refer to the [**config**](./config) folder for detailed information on all datasets used in our project. 
 - Execute the following command to generate descriptions with GPT-4.
   ```sh
   # To run the script for specific dataset, simply update the following line with the name of the dataset you're working with: 
@@ -95,7 +95,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 <img src="docs/gpt4v_prompt.png" width="800" />
 </div>
 
-- We share an example script that demonstrates how to use the GPT-4V API for zero-shot predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](https://github.com/whwu95/GPT4Vis/blob/main/GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
+- We share an example script that demonstrates how to use the GPT-4V API for zero-shot predictions on the DTD dataset. Please refer to the [GPT4V_ZS.py](./GPT4V_ZS.py) file for a step-by-step guide on implementing this. We hope it helps you get started with ease!
 
   ```sh
   # GPT4V zero-shot recognition script. 
@@ -114,7 +114,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
 
 | Stanford Cars | Food101| Oxford Pets | UCF-101 | HMDB-51 | Kinetics-400 | ModelNet-10 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[62.7](./GPT4V_ZS_Results/car.json)  |  [86.2](./GPT4V_ZS_Results/food101.json) | [90.8](./GPT4V_ZS_Results/pets.json) | [83.7](./GPT4V_ZS_Results/ucf_8frame.json) | [58.8](./GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](./GPT4V_ZS_Results/k400.json) | [66.6](./GPT4V_ZS_Results/modelnet10_front.json) |
+[62.7](./GPT4V_ZS_Results/car.json)  |  [86.2](./GPT4V_ZS_Results/food101.json) | [90.8](./GPT4V_ZS_Results/pets.json) | [83.7](./GPT4V_ZS_Results/ucf_8frame.json) | [58.8](./GPT4V_ZS_Results/hmdb_8frame.json) | [58.8](./GPT4V_ZS_Results/k400.json) | [66.9](./GPT4V_ZS_Results/modelnet10_front.json) |
 |  [Label](./annotations/stanford_cars_gt.json)   |  [Label](./annotations/food_gt.json)   | [Label](./annotations/pets_gt.json)    | [Label](./annotations/ucf_gt.json)   |  [Label](./annotations/hmdb_gt.json)  |  [Label](./annotations/k400_gt.json)  |  [Label](./annotations/modelnet10_gt.json)   |
 
 
