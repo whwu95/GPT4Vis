@@ -49,7 +49,7 @@ This work delves into an essential, yet must-know baseline in light of the lates
 
 
 ## News
-- [x] **[Mar 10, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing.
+<!-- - [x] **[Mar 10, 2024]** We have updated all results in our [report](https://arxiv.org/abs/2311.15732). For accurate predictions, we strongly recommend using single testing with GPT-4V and have accordingly eliminated scripts related to batch testing. -->
 - [x] **[Mar 7, 2024]** 
 Due to the recent removal of RPD (request per day) limits on the GPT-4V API, we've updated our predictions for all datasets using standard single testing (one sample per request). Check out the [**GPT4V Results**](./GPT4V_ZS_Results), [**Ground Truth**](./annotations) and [**Datasets**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) we've shared for you! **As a heads-up, 😭running all tests once costs around 💰$4000+💰.**
 - [x] **[Nov 28, 2023]** We release our [report](https://arxiv.org/abs/2311.15732) in Arxiv.
