@@ -102,8 +102,7 @@ Zero-shot visual recognition leveraging GPT-4's linguistic and visual capabiliti
   python GPT4V_ZS.py
   ```
 
-- All results are available in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! In addition, we've provided the [**Datasets link**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) along with their corresponding ground truths ([**annotations**](./annotations) folder) to help readers in replicating the results.
-
+- All results are available in the [**GPT4V_ZS_Results**](./GPT4V_ZS_Results) folder! In addition, we've provided the [**Datasets link**](https://unisyd-my.sharepoint.com/:f:/g/personal/wenhao_wu_sydney_edu_au/EmoNoASH2b1JqQXb14fx0tMBkj4VU3nOUrKyt9ZT1aIw2Q?e=jNL0CL) along with their corresponding ground truths ([**annotations**](./annotations) folder) to help readers in replicating the results. *Note: For certain datasets, we may have removed prefixes from the sample IDs. For instance, in the case of ImageNet, "ILSVRC2012_val_00031094.JPEG" was modified to "00031094.JPEG".*
 
 <div align="center">
 
